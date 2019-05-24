@@ -1,5 +1,5 @@
 background {
-	background-image: butter.jpg
+	background-image: url("butter.jpg");
 	background-size: cover;
 
 }
